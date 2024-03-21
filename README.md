@@ -19,8 +19,8 @@
 # <img src="https://media.giphy.com/media/6F1VgalBl1TpwMrnvb/giphy.gif" width="50"> GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yafigg&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=Yafigg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yafigg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
