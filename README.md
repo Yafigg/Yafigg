@@ -22,11 +22,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=Yafigg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# <img src="https://media.giphy.com/media/ZWlqZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> GitHub Trophies
+# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> width="50"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yafigg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quotes
+# <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### <img src="https://media.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif" width="50"> Random Dev Meme
+# <img src="https://media.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif" width="50"> Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
