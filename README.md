@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# :raised_hand: Halo, I'm Yafig <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="50">
+# :raised_hand: Halo, I'm Yafig <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="70">
 > My name is Cipto Yafig Adiwongso, currently living in Malang, Indonesia. Known computers since junior high school and interested in coding since entering high school. My experience is still making simple website projects and will further develop it to a further level. Besides learning to be a Full-Stack Developer, I currently want to learn Cyber Security and become a CTF Player.
 <p align="center">
     <a href="https://github.com/Yafigg" target="_blank">
@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=Yafigg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> width="50"> GitHub Trophies
+# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yafigg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quotes
