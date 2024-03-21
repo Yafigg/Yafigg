@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# :raised_hand: Halo, I'm Yafig <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# :raised_hand: Halo, I'm Yafig <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="50">
 > My name is Cipto Yafig Adiwongso, currently living in Malang, Indonesia. Known computers since junior high school and interested in coding since entering high school. My experience is still making simple website projects and will further develop it to a further level. Besides learning to be a Full-Stack Developer, I currently want to learn Cyber Security and become a CTF Player.
 <p align="center">
     <a href="https://github.com/Yafigg" target="_blank">
@@ -20,18 +20,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yafigg&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yafigg&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yafigg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Yafigg&icon=2&color=0)](https://visitcount.itsvg.in)
-
-# 🏆 GitHub Trophies
+# <img src="https://media.giphy.com/media/ZWlqZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yafigg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quotes
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### <img src="https://media.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif" width="50"> Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
