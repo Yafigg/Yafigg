@@ -11,7 +11,7 @@
 
 ![](https://visitcount.itsvg.in/api/test?icon=2&color=0)
 
-[![Discord Presence](https://lanyard.kyrie.me/api/780304252572270612)](https://discord.com/users/780304252572270612)
+[![Discord Presence](https://lanyard.kyrie25.me/api/780304252572270612)](https://discord.com/users/780304252572270612)
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools And Use
 
