@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/yafig.36/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
     <a href="https://www.linkedin.com/in/cipto-yafig-376204286/" target="_blank">
-        < img alt"LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    
 </p>
 
