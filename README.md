@@ -13,7 +13,7 @@
 
 ![](https://visitcount.itsvg.in/api/test?icon=2&color=0)
 
-<a align="left">
+<a align="center">
    <img src="https://lanyard.kyrie25.dev/api/780304252572270612?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(5px)"  />
   </a>
 
