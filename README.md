@@ -14,7 +14,7 @@
 ![](https://visitcount.itsvg.in/api/test?icon=2&color=0)
 
 <a align="left">
-   <img src="[https://lanyard.kyrie25.me/api/780304252572270612?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square](https://lanyard.kyrie25.dev/api/780304252572270612?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(5px))"  />
+   <img src="https://lanyard.kyrie25.dev/api/780304252572270612?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(5px)"  />
   </a>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools And Use
