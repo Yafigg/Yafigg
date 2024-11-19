@@ -15,7 +15,7 @@
 
 <div style="text-align: center;">
    <img src="https://lanyard.kyrie25.dev/api/780304252572270612?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(5px)" />
-   <img src=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uz4vzmgp52lpmeivac2dmv23zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) />
+   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uz4vzmgp52lpmeivac2dmv23zm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 
